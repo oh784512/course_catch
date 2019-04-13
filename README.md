@@ -3,4 +3,4 @@
 yzu撈課小程式
 
 <ol>1.進入dist資料夾，安裝tesseract-ocr-setup-3.02.02.exe
-<ol>2.執行"選課"程式
+2.執行"選課"程式
